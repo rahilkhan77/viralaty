@@ -2,6 +2,10 @@
 node_modules/
 package-lock.json
 
+# Environment files — never commit secrets. .env.example is the template.
+.env
+.env*.local
+
 # Next.js build output
 .next/
 out/
