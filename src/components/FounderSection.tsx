@@ -19,7 +19,7 @@ export default function FounderSection() {
               
               <img
                 src="https://img.rocket.new/generatedImages/rocket_gen_img_1fc66bbb3-1763299251535.png"
-                alt="Tarun Kapoor, founder of Viralaty"
+                alt="Rahil Khan, founder of Viralaty"
                 className="absolute inset-0 w-full h-full object-cover" />
               
             </div>
@@ -30,7 +30,7 @@ export default function FounderSection() {
               A decade of media expertise<br />working your campaigns.
             </h2>
             <p className="mt-6 text-base sm:text-lg leading-relaxed text-black/70 dark:text-white/60">
-              Tarun Kapoor built Viralaty after a career at the sharpest edge of performance marketing — enterprise media buying across GroupM, WPP, and Ogilvy &amp; Mather, followed by $3.5M+ in measurable bottom-line impact as a senior buyer at Neil Patel Digital, and selection into Toptal&apos;s Growth Collective top-1% network. He now partners with Fortune 500 marketing teams and venture-backed startups as a fractional CMO.
+              Rahil Khan is the founder behind Viralaty, Excentia AI, Revivelead AI, and Votemash — a portfolio of ventures at the intersection of AI, advertising, and growth technology.
             </p>
             <p className="mt-4 text-base sm:text-lg leading-relaxed text-black/70 dark:text-white/60">
               When you engage Viralaty, that is the practitioner managing your account — not a junior team member.

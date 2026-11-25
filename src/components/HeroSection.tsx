@@ -83,7 +83,7 @@ export default function HeroSection() {
               </div>
               <span className="whitespace-nowrap">Operated by 12-yr media expert</span>
               <span className="w-1 h-1 rounded-full bg-black/40 dark:bg-white/30" />
-              <span>Ex Neil Patel</span>
+              <span>Rahil Khan</span>
             </div>
           </div>
 
