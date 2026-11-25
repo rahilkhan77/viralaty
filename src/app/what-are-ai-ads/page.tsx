@@ -188,9 +188,7 @@ export default function WhatAreAiAdsPage() {
                   Ready to run AI Ads for your brand?
                 </p>
                 <a
-                  href="https://calendly.com/tarunkapoor/discovery"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/contact"
                   className="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-semibold tracking-widest uppercase text-white"
                   style={{ background: '#5E0ED7' }}
                 >

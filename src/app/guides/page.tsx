@@ -198,9 +198,7 @@ export default function GuidesPage() {
             </p>
           </div>
           <a
-            href="https://calendly.com/tarunkapoor/discovery"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="/contact"
             className="shrink-0 inline-flex items-center gap-2 px-7 py-3.5 rounded-full text-sm font-semibold tracking-widest uppercase text-white whitespace-nowrap"
             style={{ background: '#5E0ED7' }}
           >
