@@ -62,9 +62,7 @@ export default function HowItWorksSection() {
               Getting live is the straightforward part. What turns a test into a compounding channel is bidding discipline, consistent creative output, and measurement that holds up under scrutiny. Here is the full sequence, with a guide for every step.
             </p>
             <a
-              href="https://calendly.com/tarunkapoor/discovery"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/contact"
               className="mt-8 inline-flex items-center gap-2 px-6 py-4 rounded-full font-semibold tracking-widest uppercase text-white text-sm"
               style={{ background: '#5E0ED7' }}
             >

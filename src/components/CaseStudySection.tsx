@@ -75,9 +75,7 @@ export default function CaseStudySection() {
               </div>
               <div className="mt-10">
                 <a
-                  href="https://calendly.com/tarunkapoor/discovery"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/contact"
                   className="inline-flex w-full items-center justify-center gap-2 px-6 py-4 rounded-full font-semibold tracking-widest uppercase text-white text-sm"
                   style={{ background: '#5E0ED7' }}
                 >

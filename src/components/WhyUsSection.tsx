@@ -56,9 +56,7 @@ export default function WhyUsSection() {
               </div>
             ))}
             <a
-              href="https://calendly.com/tarunkapoor/discovery"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/contact"
               className="inline-flex items-center gap-2 px-6 py-4 rounded-full font-semibold tracking-widest uppercase text-white text-sm"
               style={{ background: '#5E0ED7' }}
             >

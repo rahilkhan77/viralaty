@@ -139,9 +139,7 @@ export default function FAQSection() {
                 How to choose an AI advertising agency <ArrowUpRight size={14} />
               </a>
               <a
-                href="https://calendly.com/tarunkapoor/discovery"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="/contact"
                 className="mt-5 inline-flex w-full items-center justify-center gap-2 px-5 py-3.5 rounded-full font-semibold tracking-widest uppercase text-white text-xs"
                 style={{ background: '#5E0ED7' }}
               >
