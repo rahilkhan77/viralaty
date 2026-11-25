@@ -9,37 +9,37 @@ const QuoteIcon = () => (
 
 const testimonials = [
   {
-    quote: 'Tarun is an exceptional professional. If you want to invest in digital advertising, you can trust his judgment completely.',
+    quote: 'Rahil Khan is an exceptional professional. If you want to invest in digital advertising, you can trust his judgment completely.',
     name: 'Jessica Torres',
     role: 'CRM & Sales Ops Specialist, EVEO',
-    relation: 'Reported to Tarun',
+    relation: 'Reported to Rahil Khan',
   },
   {
-    quote: "I rarely encounter talent that stands out the way Tarun does. His ability to manage complex, multi-channel programs simultaneously was unlike anything I had seen.",
+    quote: "I rarely encounter talent that stands out the way Rahil Khan does. His ability to manage complex, multi-channel programs simultaneously was unlike anything I had seen.",
     name: 'Arnav Girdhar',
     role: 'Digital Head, Miduty · ex-GroupM',
     relation: 'Same team',
   },
   {
-    quote: 'Tarun was invaluable. His command of paid social best practices helped us sharpen our entire acquisition approach.',
+    quote: 'Rahil Khan was invaluable. His command of paid social best practices helped us sharpen our entire acquisition approach.',
     name: 'Raksha Gupta',
     role: 'Group Head, Publicis Global Delivery · ex-Sprinklr',
     relation: 'Worked together',
   },
   {
-    quote: 'Tarun brings unmatched domain expertise and genuine professionalism to every engagement. I recommend him without reservation.',
+    quote: 'Rahil Khan brings unmatched domain expertise and genuine professionalism to every engagement. I recommend him without reservation.',
     name: 'Sarvam Bansal',
     role: 'Founder & MD, Olevea',
     relation: 'Same team',
   },
   {
-    quote: 'When Tarun commits to a goal, he pursues it relentlessly until it is done — no excuses, no shortcuts.',
+    quote: 'When Rahil Khan commits to a goal, he pursues it relentlessly until it is done — no excuses, no shortcuts.',
     name: 'Roy Opata Olende',
     role: 'UXR & Research Ops Leader · Zapier, The Browser Company',
     relation: 'Same team',
   },
   {
-    quote: 'Tarun is genuinely exceptional at performance marketing. He managed major accounts single-handedly and consistently delivered insights that moved the needle.',
+    quote: 'Rahil Khan is genuinely exceptional at performance marketing. He managed major accounts single-handedly and consistently delivered insights that moved the needle.',
     name: 'Gargi Bannerjee',
     role: 'Digital Marketing Lead · ex-WPP, IPG',
     relation: 'Same team',
@@ -111,7 +111,7 @@ export default function TrackRecordSection() {
         </div>
 
         <p className="mt-8 text-xs leading-relaxed text-white/40 max-w-3xl">
-          Recommendations for Tarun Kapoor from clients and colleagues across his career, and client results from Conversion.is — Viralaty&apos;s sister agency, founded and operated by the same practitioner. Those engagements are full-funnel paid programs in which AI ads run alongside Meta, Google, and TikTok, so the figures reflect the complete program rather than any single channel in isolation.
+          Recommendations for Rahil Khan from clients and colleagues across his career, and client results from Conversion.is — Viralaty&apos;s sister agency, founded and operated by the same practitioner. Those engagements are full-funnel paid programs in which AI ads run alongside Meta, Google, and TikTok, so the figures reflect the complete program rather than any single channel in isolation.
         </p>
       </div>
     </section>
