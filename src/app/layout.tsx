@@ -57,12 +57,13 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: '/assets/images/viralaty-logo-removebg-preview-1788527123870.png', type: 'image/png' },
+      { url: '/favicon.ico', sizes: '16x16 32x32 48x48' },
+      { url: '/icon.png', type: 'image/png', sizes: '512x512' },
     ],
     apple: [
-      { url: '/assets/images/viralaty-logo-removebg-preview-1788527123870.png', type: 'image/png' },
+      { url: '/apple-touch-icon.png', type: 'image/png', sizes: '180x180' },
     ],
-    shortcut: '/assets/images/viralaty-logo-removebg-preview-1788527123870.png',
+    shortcut: '/favicon.ico',
   },
   alternates: {
     canonical: 'https://viralaty.com',
